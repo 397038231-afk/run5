@@ -3,7 +3,5 @@
   "greetingText": "I really like your name btw!",
   "wishText": "Would you like to join a special party on February 14?",
   "imagePath": "img/g1.jpg"
-   <div class="qr">
-      <p>Scan me please 💌</p>
-      <img src="qrcode2.png" alt="QR Code" width="150">
+   
 }
